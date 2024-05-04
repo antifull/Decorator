@@ -1,0 +1,2 @@
+# Decorator
+Patrón Decorador
